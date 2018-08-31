@@ -1,7 +1,7 @@
-Edit this file to add a bill of materials
+The wheels I used are from Harbor Freight.
 
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
+Front wheels: 6" Wheel, Part Number: 98950
+https://www.harborfreight.com/6-inch-semi-solid-wheel-98950.html
 
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+Read Wheel: 1 5/8"   Swivel Caster, Part Number: 41519
+https://www.harborfreight.com/1-5-8-eighth-inch-x-7-8-eighth-inch-light-duty-swivel-caster-41519.html
